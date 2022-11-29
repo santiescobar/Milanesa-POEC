@@ -20,5 +20,5 @@ header{
     padding: 10px;
 }
 .logo{
-    
+    display: flex; 
 }
