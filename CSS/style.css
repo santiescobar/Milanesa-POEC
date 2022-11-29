@@ -90,4 +90,5 @@ nav a:hover{
     height: 400px;
     position: relative;
     overflow: hidden;
+    margin: 20px;
 }
