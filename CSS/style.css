@@ -46,4 +46,5 @@ nav a:hover{
     display:flex;
     position:realtive;
     margin:5em auto;
+    width: 100px;
 }
