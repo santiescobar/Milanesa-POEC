@@ -158,4 +158,12 @@ h1{
     font-weight: 400;  
     text-align: center;
     padding: 20px 0;
+    font-size: 40px;
+    color: white;
+}
+.linea{
+    background: #d3aed1;
+    height: 5px;
+    width: 100%;
+    display: block;
 }
