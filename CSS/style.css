@@ -203,5 +203,6 @@ nav a:hover{
     transition: 0.5s;
 }
 .content h1:hover{
-    
+    text-decoration: none;
+
 }
