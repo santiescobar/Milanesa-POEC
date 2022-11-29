@@ -205,5 +205,6 @@ nav a:hover{
 .content h1:hover{
     text-decoration: none;
     display: inline-block;
+    color: white;
 
 }
