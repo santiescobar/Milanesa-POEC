@@ -162,5 +162,6 @@ nav a:hover{
     transition: all 300ms ease;
 }
 .pie-pagina .grupo-1 .red-social a:hover{
+    color: rgb(211, 26, 26);
 
 }
