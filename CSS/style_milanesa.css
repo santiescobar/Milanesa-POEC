@@ -228,4 +228,6 @@ h1{
     line-height: 40px;
     border-radius: 50%;
 }
-.next{}
+.next{
+    display: block;
+}
