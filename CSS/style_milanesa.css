@@ -176,4 +176,6 @@ h1{
     padding: 40px;
     overflow: hidden;
 }
-.galeria img{}
+.galeria img{
+    width: 100%;
+}
