@@ -243,4 +243,7 @@ h1{
     .galeria{
         grid-template-columns: repeat(auto-fit, minmax(200px, 1dr)) ;
     }
+    .close{
+        
+    }
 }
