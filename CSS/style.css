@@ -176,6 +176,6 @@ nav a:hover{
 }
 @media screen and (max-width:800px{
     .pie-pagina .grupo-1{
-        
+        width: 100%;
     }
 }
