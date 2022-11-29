@@ -62,3 +62,6 @@ nav a:hover{
     display:block;
     font:1.2em 'Montserrat Alternates';
 }
+.field>input[type=text] {
+    
+}
