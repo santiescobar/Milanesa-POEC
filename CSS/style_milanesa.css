@@ -214,3 +214,6 @@ h1{
 .light-box:target{
     transform: scale(1);
 }
+.close{
+    
+}
