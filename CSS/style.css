@@ -57,3 +57,7 @@ nav a:hover{
    6px 6px 0 rgb(56, 19, 4),
    7px 7px 0 rgb(56, 19, 4);
 }
+.field>input[type=text],
+.field>button {
+    
+}
