@@ -174,8 +174,9 @@ nav a:hover{
 .pie-pagina .grupo-2 small{
     font-size: 15px;
 }
-@media screen and (max-width:800px{
+@media screen and (max-width:800px){
     .pie-pagina .grupo-1{
         width: 100%;
+        grid-template-columns: repeat(3, 1fr);
     }
 }
