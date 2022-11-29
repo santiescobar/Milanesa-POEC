@@ -63,3 +63,8 @@ nav a:hover{
     7px 7px 0 rgb(56, 19, 4)
    ;
 }
+.field>input[type=text],
+.field>button {
+    display:block;
+    font:1.2em 'Montserrat Alternates';
+}
