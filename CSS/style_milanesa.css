@@ -185,4 +185,5 @@ h1{
 }
 .galeria > a{
     display: block;
+    position: relative;
 }
