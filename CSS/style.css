@@ -214,5 +214,6 @@ nav a:hover{
     transition: 0,5s;
 }
 .content a:hover{
-    
+    -webkit-text-stroke: 2px rgb(189, 20, 20);
+    color: red;
 }
