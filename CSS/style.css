@@ -70,4 +70,5 @@ nav a:hover{
 .field>button {
     padding:0.6em 0.8em;
     background-color:rgb(5, 8, 8);
+    color:white;
 }
