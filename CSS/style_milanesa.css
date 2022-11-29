@@ -212,5 +212,5 @@ h1{
     max-height: 70vw;
 }
 .light-box:target{
-    
+    transform: scale(1);
 }
