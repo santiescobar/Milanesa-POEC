@@ -112,5 +112,5 @@ nav a:hover{
     transition: .3s ease;
 }
 .box:hover .capa{
-    
+    transform: scale(1);
 }
