@@ -217,4 +217,6 @@ nav a:hover{
     -webkit-text-stroke: 2px rgb(189, 20, 20);
     color: red;
 }
-.back-video{}
+.back-video{
+    position: absolute;   
+}
