@@ -122,5 +122,6 @@ nav a:hover{
     background-color: #240202;
 }
 .pie-pagina .grupo-1{
-    
+    width: 100%;
+    max-width: 1200px;
 }
