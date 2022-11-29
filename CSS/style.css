@@ -212,5 +212,7 @@ nav a:hover{
     border-radius: 50px;
     margin-top: 20px;
     transition: 0,5s;
-
+}
+.content a:hover{
+    
 }
