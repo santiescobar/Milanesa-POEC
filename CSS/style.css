@@ -151,5 +151,7 @@ nav a:hover{
 }
 .pie-pagina .grupo-1 .red-social a{
     display: inline-block;
-
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
 }
