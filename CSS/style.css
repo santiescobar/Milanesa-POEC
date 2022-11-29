@@ -206,6 +206,11 @@ nav a:hover{
     -webkit-text-stroke: 2px white;
     color: transparent;
 }
+
+.content a{
+    text-decoration: none;
+}
+
 .content a:hover{
     -webkit-text-stroke: 2px rgb(189, 20, 20);
     color: red;
