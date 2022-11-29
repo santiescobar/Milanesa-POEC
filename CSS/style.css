@@ -91,4 +91,5 @@ nav a:hover{
     position: relative;
     overflow: hidden;
     margin: 20px;
+    border: rgb(59, 31, 31);
 }
