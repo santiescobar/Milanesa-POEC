@@ -88,4 +88,6 @@ nav a:hover{
 .box{
     width: 300px;
     height: 400px;
+    position: relative;
+    overflow: hidden;
 }
