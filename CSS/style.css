@@ -178,5 +178,6 @@ nav a:hover{
     .pie-pagina .grupo-1{
         width: 100%;
         grid-template-columns: repeat(3, 1fr);
+        grid-gap: 50px;
     }
 }
