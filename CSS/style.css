@@ -209,6 +209,7 @@ nav a:hover{
 
 .content a{
     text-decoration: none;
+    display: inline-block;
 }
 
 .content a:hover{
