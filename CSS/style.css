@@ -65,4 +65,5 @@ nav a:hover{
 .field>input[type=text] {
     flex:1;
     padding:0.6em;
+    border:0.2em solid rgb(221, 15, 15);
 }
