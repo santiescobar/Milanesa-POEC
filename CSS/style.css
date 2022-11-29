@@ -200,4 +200,5 @@ nav a:hover{
     font-size: 160px;
     color: white;
     font-weight: 600;
+    transition: 0.5s;
 }
