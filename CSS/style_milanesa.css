@@ -203,4 +203,5 @@ h1{
     height: 100vh;
     z-index: 1000;
     display: flex;
+    justify-content: center;
 }
