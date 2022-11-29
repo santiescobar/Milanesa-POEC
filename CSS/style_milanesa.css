@@ -209,4 +209,6 @@ h1{
 }
 .light-box img{
     width: 75vw;
+    max-height: 70vw;
+}
 }
