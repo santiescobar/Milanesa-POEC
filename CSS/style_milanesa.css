@@ -216,4 +216,5 @@ h1{
 }
 .close{
     display: block;
+    position: absolute;
 }
