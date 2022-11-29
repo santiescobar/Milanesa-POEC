@@ -159,4 +159,5 @@ nav a:hover{
     margin-right: 10px;
     background-color: rgb(83, 18, 18);
     text-align: center;
+    transition: all 300ms ease;
 }
