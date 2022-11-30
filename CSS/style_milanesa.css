@@ -345,3 +345,8 @@ h1{
     font-size: 14px;
     margin-bottom: 5px;
  }
+
+ .card_info .action .btn{
+    padding: 10px;
+    
+ }
