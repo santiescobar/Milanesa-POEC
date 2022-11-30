@@ -298,4 +298,5 @@ h1{
     padding: 15px;
     background: white;
     z-index: 90;
+    transition: .5s;
 }
