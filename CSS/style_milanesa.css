@@ -274,4 +274,5 @@ h1{
     background: linear-gradient(transparent 80%, #000), var(--1);
     background-position: center;
     background-size: cover;
+    z-index: 100;
 }
