@@ -312,3 +312,8 @@ h1{
     font-weight: 700;
     color: #851919;
 }
+
+.card_info .head2 .description{
+    display: flex;
+
+}
