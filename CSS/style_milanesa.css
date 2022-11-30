@@ -336,3 +336,7 @@ h1{
  .card_info .content {
     margin-top: 15px;
  }
+
+ .card_info .content .list{
+    padding: 10px 15px;
+ }
