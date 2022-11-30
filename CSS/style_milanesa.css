@@ -328,3 +328,7 @@ h1{
     color: #240202;
     font-size: 15px;
  }
+
+ .card_info .head .description .itemm p{
+    font-size: 13px;
+ }
