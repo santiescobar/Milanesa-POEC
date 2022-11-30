@@ -340,3 +340,8 @@ h1{
  .card_info .content .list{
     padding: 10px 15px;
  }
+
+ .card_info .content .list li{
+    font-size: 14px;
+    margin-bottom: 5px;
+ }
