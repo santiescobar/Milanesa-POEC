@@ -256,4 +256,5 @@ h1{
     display: grid;
     grid-template-columns: 50% 50%;
     right: 25px;
+    justify-content:space-between;
 }
