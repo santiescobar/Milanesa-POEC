@@ -272,4 +272,5 @@ h1{
     height: 100%;
     box-shadow: 0 5px 10px #000;
     background: linear-gradient(transparent 80%, #000), var(--1);
+    background-position: center;
 }
