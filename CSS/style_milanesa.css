@@ -323,3 +323,8 @@ h1{
     gap: 5px;
     align-items: center;
 }
+
+.card_info .head .description .itemm i{
+    color: #240202;
+    font-size: 15px;
+ }
