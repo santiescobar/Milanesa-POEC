@@ -250,6 +250,7 @@ h1{
 }
 
 .grid-layout{
+
     width: 100%;
     margin: 0 auto;
     padding: 20px;
@@ -260,14 +261,16 @@ h1{
     gap: 35px;
 }
 
-.card2{
+
+/*caja1*/
+   .card2{
     position: relative;
     width: 350px;
-    height: 450%;
+    height: 450px;
     align-items: center;
-}
+   }
 
-.card2 .card_landing{
+   .card2 .card_landing{
     position: relative;
     width: 100%;
     height: 100%;
@@ -277,17 +280,17 @@ h1{
     background-size: cover;
     z-index: 100;
     align-items: center;
-}
+   }
 
-.card2 .card_landing h6{
+   .card2 .card_landing h6{
     position: absolute;
     bottom: 10px;
     left: 10px;
     font-size: 25px;
     color: white;
-}
+   }
 
-.card2 .card_info{
+   .card2 .card_info{
     position: absolute;
     width: 90%;
     height: 90%;
@@ -301,11 +304,18 @@ h1{
     z-index: 90;
     transition: .5s;
     box-shadow: #000;
-}
+   }
+
 
 .card2:hover .card_info{
     left: 100%;
 
+}
+
+.card_info .head2 {
+    padding: 5px 0;
+    border-bottom: solid 1px #851919;
+    color: #301204;
 }
 
 .card_info .head2 .title2{
@@ -326,11 +336,11 @@ h1{
 }
 
 .card_info .head .description .itemm i{
-    color: #240202;
-    font-size: 15px;
- }
+   color: #240202;
+   font-size: 15px;
+}
 
- .card_info .head .description .itemm p{
+.card_info .head .description .itemm p{
     font-size: 13px;
  }
 
