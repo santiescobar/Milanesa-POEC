@@ -280,4 +280,5 @@ h1{
 
 .card2 .card_landing h6{
     position: absolute;
+    bottom: 10px;
 }
