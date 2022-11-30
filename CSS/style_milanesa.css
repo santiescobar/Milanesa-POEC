@@ -332,3 +332,7 @@ h1{
  .card_info .head .description .itemm p{
     font-size: 13px;
  }
+
+ .card_info .content {
+    margin-top: 15px;
+ }
