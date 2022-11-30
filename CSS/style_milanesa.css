@@ -301,3 +301,8 @@ h1{
     transition: .5s;
     box-shadow: #000;
 }
+
+.card2:hover .card_info{
+    left: 100%;
+
+}
