@@ -50,4 +50,5 @@ body{
 
 .form-register a:hover{
     color: red;
+    text-decoration: underline;
 }
