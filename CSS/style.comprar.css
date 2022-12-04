@@ -69,3 +69,58 @@ body{
 
 /*Logo*/
 
+header{
+    display: flex;
+ min-height: 70px;
+    background-color: #240202;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(59, 31, 31);
+    
+
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    height: 50px;
+    margin-right: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+}
+nav a:hover{
+    color: rgb(136, 91, 91);
+}
+
+@media (max-width:700px){
+    header{
+        flex-direction: column;
+    }
+
+    nav{
+padding: 10px 0px;
+    }
+}
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat+Alternates);
+
